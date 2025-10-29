@@ -32,7 +32,7 @@ I'm a curious, analytical, and practical person who values integrity and respons
 
 ### Connect with me 🌐
  <p>
-<a href="www.linkedin.com/in/isabella-tiago-abra-da-cunha-80638a23a">
+<a href="http://www.linkedin.com/in/isabella-tiago-abra-da-cunha-80638a23a">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
