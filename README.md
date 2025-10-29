@@ -2,7 +2,7 @@
 
 I'm Isabella Tiago, a 22 years old brazilian student, currently pursuing a degree in Informations Systems at Fundação Santo André.
 
-###  About me 📝
+### About me 📝
 
 I'm a curious, analytical, and practical person who values integrity and responsibility. Passionate about technology, I'm constantly adapting and expanding my skills in the tech world. I value authenticity and creativity, especially in the field of data. I love how data can be transformed into insights that guide a company’s growth. I’m currently open to internship opportunities where I can develop my skills further and contribute value to the team and the organization. I also enjoy software development and building practical solutions.
 
@@ -11,6 +11,11 @@ I'm a curious, analytical, and practical person who values integrity and respons
 - Improving my skills in **SQL**, **Power BI**, **building dashboards**
 - Learning how to tell stories through data
 - Taking a course in **Power BI**, building a small BI to apply what I learn
+
+### Languages 💬
+- **Brazilian Portuguese** - Native
+- **English** - Intermediate (Conversational)
+- **Spanish** - Basic understanding
 
 
 ### Tech Stack & Skills 🧠
