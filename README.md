@@ -32,10 +32,16 @@ I'm a curious, analytical, and practical person who values integrity and respons
 
 ### Connect with me 🌐
  <p>
-   <a href="www.linkedin.com/in/isabella-tiago-abra-da-cunha-80638a23a">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="40" height="40" ">
-</a>&nbsp;&nbsp;
-   <a href="mailto:isabellatiago4@gmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="40" height="40">
+<a href="www.linkedin.com/in/isabella-tiago-abra-da-cunha-80638a23a">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
+<a href="mailto:isabellatiago4@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
 </a>
  </p>
