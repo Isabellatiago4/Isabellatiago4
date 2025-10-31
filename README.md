@@ -4,13 +4,15 @@ I'm Isabella Tiago, a 22 years old brazilian student, currently pursuing a degre
 
 ### About me 📝
 
-I'm a curious, analytical, and practical person who values integrity and responsibility. Passionate about technology, I'm constantly adapting and expanding my skills in the tech world. I value authenticity and creativity, especially in the field of data. I love how data can be transformed into insights that guide a company’s growth. I’m currently open to internship opportunities where I can develop my skills further and contribute value to the team and the organization. I also enjoy software development and building practical solutions.
+I'm a curious, analytical, and practical person who values integrity and responsibility. Passionate about technology, I'm always learning and adapting to new tools and ideas. I see data as a powerful way to understand the world, and I love transforming it into insights that drive better decisions. At the same time, I enjoy exploring software development and creating practical solutions that make processes smarter and more efficient.
+I’m currently open to internship opportunities where I can grow my technical skills, learn from real-world challenges, and contribute meaningful results to the team.
 
 
 ### What I'm currently working on 🎯
-- Improving my skills in **SQL**, **Power BI**, **building dashboards**
+- Improving my skills in **SQL**, **Power BI** and **dashboard design**
 - Learning how to tell stories through data
-- Taking a course in **Power BI**, building a small BI to apply what I learn
+- Exploring development projects to integrate analytics with technology
+- Taking a Power BI course and building a small BI project to apply what I learn
 
 ### Languages 💬
 - **Brazilian Portuguese** - Native
